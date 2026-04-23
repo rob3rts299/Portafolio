@@ -1,0 +1,3 @@
+{
+    "Parte del Cuerpo" : "pierna"
+}
