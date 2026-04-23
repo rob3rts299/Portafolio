@@ -1,0 +1,31 @@
+body{
+    color: black;
+    font-family: sans-serif;
+}
+
+.subjects{
+    width: 90%;
+    background: #281f5a;
+    padding: 2px;
+    font-size: 20px;
+}
+
+.subject-list{
+    background: #534e72;
+    display: flex;
+    color: white;
+}
+
+.subject-list div{
+    padding: 20px;
+}
+
+.subject-list .average-subject{ 
+    flex-basis: 27px;
+    background: #281f5a;
+    font-weight: 900;
+}
+
+.subject-list .name-subject{
+    flex-grow: 1;
+}

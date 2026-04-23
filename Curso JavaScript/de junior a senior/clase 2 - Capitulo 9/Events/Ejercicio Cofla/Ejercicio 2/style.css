@@ -1,0 +1,21 @@
+.grid-container{
+    display: grid;
+    grid-template-rows: 50px;
+    grid-template-columns: repeat(4,minmax(min-content,max-content));
+    grid-auto-rows: 50px;
+
+}
+
+.grid-container .grid-item{
+    padding: 10px;
+    border: 1px solid #362e2e;
+    margin: 5px;
+}
+
+.btn-confirm{
+    padding: 9px 30px;
+    background: rgb(124, 39, 39);
+    color: #fff;
+    border: none;
+    margin: 30px;
+}

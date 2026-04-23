@@ -1,0 +1,10 @@
+
+
+
+
+
+------------Cofla llega a su casa y abre una pagina y apreta f11, desde ahi se pone a navegar pero hay un problema...
+como ahora esta en pantalla complea no puee ver ni la barra de marcadores, ni el protocolo, ni la URL, ni ninguna informacion
+que nos puede otorgar la interfaz que contiene la barra de busqueda.
+
+		-crear un sistema que muestre los suficientes datos como para conocer el sitio web.

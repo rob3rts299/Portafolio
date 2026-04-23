@@ -1,0 +1,4 @@
+Windows es la jerarquia mas alta que hay en java.script
+
+
+1- Hereda las propiedades de event.target
