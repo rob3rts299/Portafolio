@@ -1,0 +1,67 @@
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    font-family: sans-serif;
+    color: #444;
+}
+
+/*solamente en caso de que se dezplace la pantalla y no sabemos como solucionarlo*/
+body{
+    overflow-x: hidden;
+}
+/*          */
+
+
+h3{
+    color: #523;
+}
+
+h2, h3{
+    margin: 0;
+}
+
+h4 b{
+    color: #008045;
+}
+
+.flex-item:hover{
+    border-color: cadetblue;
+    box-shadow: 0px 0px 23px #3e6169;
+}
+.flex-item:focus{
+    border-color: cadetblue;
+    box-shadow: 0px 0px 23px #3e6169;
+}
+
+.flex-item{
+    flex-grow: 1;
+    margin: 20px;
+    border: 2px solid #333;
+    max-width: 340px;
+    padding: 0 10px;
+}
+
+.llave-img{
+    width: 300px;
+
+}
+
+form{
+    text-align: center;
+    padding: 50px;
+}
+
+input[type="submit"]{
+background-color: #40a2b8;
+color: antiquewhite;
+border: none;
+padding: 8px 20px;
+font-size: 18px;
+letter-spacing: 1px;
+}
+
+input[type="submit"]:hover{
+    color: black;
+    box-shadow: 0px 0px 6px #24393d;
+}
