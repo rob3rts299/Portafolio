@@ -1,0 +1,11 @@
+El codigo obsoleto es aquel que ya no se usa, porque lo reemplazaron, perdio importancia o directamente porque genera muchos errores como consumo excesivo
+
+Se puede verificar si Cualquier codigo esta obsoleto por las paginas de https://www.w3schools.com/   &  https://developer.mozilla.org/
+
+La forma de buscarlo es simplemente poner la funcion o el codigo a verificacion y entrar en cualquiera de esas dos paginas. Ejemplos
+
+Codigo a buscar anchor javascript
+
+https://www.w3schools.com/jsref/jsref_anchor.asp
+
+https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/String/anchor

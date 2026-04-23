@@ -1,0 +1,9 @@
+Ejercicio Cofla
+
+-Las mesas de examen ya finalizaron y el profesor le tomo un ultimo examen especial a cofla, ya cofla hizo 2 pruebas mas,
+pero lamentablemente se rompio el sistema de inscripcion de notas, por ende habra que crear una solucion a este problema,
+desarrollando una web que sea capaz de simular su funcionamiento
+	- Crear mini interfaz para introducir nota
+	- Validar que no haya errores
+	- Se debe proemdiar la nota del profesor, con otras 2 notas de trabajos anteriores
+	- Si el promedio es mayor a 7/10 -> aprobar la materia

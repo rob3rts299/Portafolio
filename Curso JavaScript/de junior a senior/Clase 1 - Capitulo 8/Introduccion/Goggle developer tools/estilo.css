@@ -1,0 +1,26 @@
+body{
+    color: #222;
+    font-family: sans-serif;
+}
+
+div{
+    background-color: black;
+    padding: 20px;
+
+}
+
+h2{
+    color: white;
+}
+
+p{
+    color: #ccc;
+}
+
+body > div > p{
+    background-color: red;
+}
+
+p:hover{
+    background-color: blue;
+}

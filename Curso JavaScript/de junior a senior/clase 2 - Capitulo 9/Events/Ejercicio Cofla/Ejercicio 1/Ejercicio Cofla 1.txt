@@ -1,0 +1,7 @@
+
+
+
+1- Cofla reprobo 2 materias y ahora tiene que enviar un formulario para registrarse en la materia que debe.
+	- El formulario debe contener nombres completo, mail y materia adeudada.
+	- Se debe validar que el mail sea valido, que los nombres sean reales.
+	- Se debe enviar al servidor de manera pulida.

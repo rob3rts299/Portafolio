@@ -1,0 +1,8 @@
+
+
+Ejercicio Cofla.
+Cofla esta en su ultimo año y necesita recuperar todas sus notas para que le puedan decir si efectivamente paso al ultimo semestre,
+de ser asi... cofla ya estaria a un solo paso de finalizar su carrera como ingeniero. Pero, hay un problema: Estas notas
+estan almacenadas en otro servidor
+
+	-Crear un sistema que almacene toda la informacion de las materias y las muestre en pantalla
